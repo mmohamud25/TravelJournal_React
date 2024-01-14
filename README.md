@@ -2,7 +2,10 @@
 
 **About ℹ️**
 
-A travel journal was created to practice ReactJS. It includes descriptions of places I have visited and future adventures. Journal Entries contain Title, Location, Google Maps Link, Start Date, End Date, Description, and Image. Journal Entries are created dynamically using the .map() method and props on the data.js file, an array of objects. While creating this project, I learned about React Props, Creating Components from an Array, using Mapping Components, etc.
+In my learning journey of #Reactjs, I have taken a personal project to display a travel journal that records my travels over the past three years. The project comprises entries containing the title, location, Google Maps link, start and end dates, description, images of the places I have visited, and facts about the location.
+
+The entries are created dynamically using the .map() method and props from the data.js file, an array of objects. While working on this project, I gained knowledge about React Props, Creating Components from an Array, using Mapping Components, and much more.
+
 
 
 
